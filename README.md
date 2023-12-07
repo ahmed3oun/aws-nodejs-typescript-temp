@@ -48,6 +48,19 @@ or:
 yarn install
 ```
 
+To run this app locally:
+
+```
+yarn dev
+```
+or:
+
+```
+npm run dev
+```
+
+
+
 ## Licence
 
 MIT.
