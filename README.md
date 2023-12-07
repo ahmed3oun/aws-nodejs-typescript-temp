@@ -24,7 +24,7 @@ To create new serverless AWS TypeScript project using this template run:
 
 ```bash
 serverless create \
---template-url https://github.com/ttarnowski/serverless-aws-nodejs-typescript-v2/tree/main \
+--template-url https://github.com/ahmed3oun/aws-nodejs-typescript-temp/tree/main \
 --path myServiceName
 ```
 
@@ -45,7 +45,7 @@ npm install
 or:
 
 ```
-yarn
+yarn install
 ```
 
 ## Licence
