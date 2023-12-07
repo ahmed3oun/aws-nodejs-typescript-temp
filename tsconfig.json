@@ -6,7 +6,7 @@
     "allowJs": true,
     "target": "es2017",
     "resolveJsonModule": true,
-    "outDir": "dist",
+    "outDir": ".build",
     "moduleResolution": "node",
     "lib": [
       "es2017"
