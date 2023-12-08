@@ -109,6 +109,7 @@ functions:
 plugins:
   - serverless-plugin-typescript
   - serverless-offline
+  #- serverless-esbuild
 # you can add CloudFormation resource templates here
 #resources:
 #  Resources:
